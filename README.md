@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est MisterFreeze25
 
 Développeur passionné par le développement web et la programmation.  
-Je travaille principalement avec HTML, CSS, JavaScript et Python.  
+Je travaille principalement avec HTML, CSS et JavaScript.  
 Toujours en train d’apprendre et d’améliorer mes compétences.
 
 ---
@@ -17,7 +17,6 @@ Toujours en train d’apprendre et d’améliorer mes compétences.
 - Python
 
 ### 🎮 Développement de Jeux Vidéo
-
 - Création de jeux en Godot
 - Programmation en Godot Script
 - Logique de gameplay et mécaniques de jeu
