@@ -17,9 +17,9 @@ Toujours en train d’apprendre et d’améliorer mes compétences.
 - Python
 
 ### 🎮 Développement de Jeux Vidéo
-- Création de jeux en Godot
-- Programmation en Godot Script
-- Logique de gameplay et mécaniques de jeu
+- Création de petits jeux
+- Bases de la programmation de jeux
+- Utilisation d’un moteur de jeu
 
 ---
 
