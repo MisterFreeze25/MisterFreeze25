@@ -16,6 +16,12 @@ Toujours en train d’apprendre et d’améliorer mes compétences.
 ### 🐍 Programmation
 - Python
 
+### 🎮 Développement de Jeux Vidéo
+
+- Création de jeux en Godot
+- Programmation en Godot Script
+- Logique de gameplay et mécaniques de jeu
+
 ---
 
 ## 🚀 Ce que je développe
@@ -23,7 +29,8 @@ Toujours en train d’apprendre et d’améliorer mes compétences.
 - 🌐 Sites web modernes et responsives
 - 🎨 Interfaces propres et organisées
 - ⚡ Projets pour progresser en JavaScript
-- 🐍 Scripts et applications en Python
+- 🐍 Scripts en Python
+- 🎮 Jeux vidéo
 
 ---
 
