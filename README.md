@@ -24,7 +24,6 @@ Toujours en train d’apprendre et d’améliorer mes compétences.
 ---
 
 ## 🚀 Ce que je développe
-
 - 🌐 Sites web modernes et responsives
 - 🎨 Interfaces propres et organisées
 - ⚡ Projets pour progresser en JavaScript
@@ -34,7 +33,6 @@ Toujours en train d’apprendre et d’améliorer mes compétences.
 ---
 
 ## 🎯 Objectif
-
 Continuer à progresser, créer des projets de plus en plus complets  
 et développer mes compétences pour devenir développeur professionnel.
 
