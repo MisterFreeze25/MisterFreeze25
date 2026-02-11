@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Max Lebert
 
-<!--
-**MisterFreeze25/MisterFreeze25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur passionné par le développement web et la programmation.  
+Je travaille principalement avec HTML, CSS, JavaScript et Python.  
+Toujours en train d’apprendre et d’améliorer mes compétences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+
+### 🌐 Développement Web
+- HTML
+- CSS
+- JavaScript
+
+### 🐍 Programmation
+- Python
+
+---
+
+## 🚀 Ce que je développe
+
+- 🌐 Sites web modernes et responsives
+- 🎨 Interfaces propres et organisées
+- ⚡ Projets pour progresser en JavaScript
+- 🐍 Scripts et applications en Python
+
+---
+
+## 🎯 Objectif
+
+Continuer à progresser, créer des projets de plus en plus complets  
+et développer mes compétences pour devenir développeur professionnel.
+
+---
+
+Merci de visiter mon profil 🙌
