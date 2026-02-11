@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Max Lebert
+# 👋 Salut, moi c'est MisterFreeze25
 
 Développeur passionné par le développement web et la programmation.  
 Je travaille principalement avec HTML, CSS, JavaScript et Python.  
